@@ -1215,7 +1215,7 @@
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 4000, 415 } //TODO JAVI
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 1600, 300 } //TODO JAVI
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
